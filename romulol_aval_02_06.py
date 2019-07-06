@@ -1,0 +1,12 @@
+lista = [2, 2, 0, 6, 1, 9, 9, 1]
+print(lista)
+lista.pop(2)
+print(lista)
+lista.remove(0)
+print(lista)
+lista.remove(6)
+print(lista)
+lista.remove(1)
+print(lista)
+lista.remove(9)
+print(lista)
